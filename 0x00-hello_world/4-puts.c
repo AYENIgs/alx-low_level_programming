@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - rint the string in the put function 
  *
