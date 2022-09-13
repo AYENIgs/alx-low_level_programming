@@ -18,15 +18,23 @@ n = rand() - RAND_MAX / 2;
   /* your code goes there */
 if (n > 0)
 {
-	printf("%1 is postive\n, n);
+        printf("%1 is postive\n, n);
 }
 else if (n == 0)
 {
-	printf("%1 is zero\n", n);
+        printf("%1 is zero\n", n);
 }
 else if (n < 0)
 {
-	printf("%1 is negative \n, n");
+        printf("%1 is negative \n, n");
 }
 return (0);
 }
+[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C"[A[A[A[A[A[A[A[A[D[D[D"[B[B[B[B[B[B[B[B[C[C[C[C[[[[C[C[C[C[C[C[C, n);[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[A[A[B[B[B
+
+
+
+
+Q:q
+[A[C[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
